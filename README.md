@@ -1,2 +1,2 @@
-# itcbootcamp_question_base_website_project
+# itcbootcamp question base website project
 itcbootcamp Question Base website project
