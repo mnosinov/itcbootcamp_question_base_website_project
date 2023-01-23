@@ -20,6 +20,7 @@ body *, *:before, *:after {
 
 h1 {
 	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 }
 
 button {
@@ -86,4 +87,13 @@ header button {
 .sign-up-btn:hover {
 	background-color: orange;
 	color: #0A0A0A;
+}
+
+.section-hero button {
+	background-color: #C6F572;
+	min-width: 180px;
+}
+
+.section-hero button:hover {
+	background-color: orange;
 }

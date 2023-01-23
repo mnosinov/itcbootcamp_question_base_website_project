@@ -9,4 +9,43 @@
 		display: flex;
 	}
 
+	.section-hero {
+		margin: 10px auto;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.hero-images {
+		margin: 0 auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.hero-images img {
+		margin: 5px;
+	}
+
+	.hero-title {
+		margin: 0 auto;
+		padding: 0;
+	}
+
+	.hero-title h1 {
+		font-size: 42px;
+		line-height: 160px;
+		font-family: 'Roboto';
+		font-weight: 400;
+	}
+
+	.hero-bottom {
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		margin: 0 30px;
+	}
+
+	.hero-bottom p {
+		max-width: 400px;
+	}
 }
