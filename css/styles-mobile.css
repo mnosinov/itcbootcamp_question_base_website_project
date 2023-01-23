@@ -97,24 +97,24 @@
 		min-width: 90%;
 	}
 
-	.ceo-message {
+	.section-ceo-message {
 		align-items: center;
 		justify-content: center;
 		min-height: 100px;
 		padding: 0 10px;
 	}
 
-	.ceo-message h1 {
+	.section-ceo-message h1 {
 		font-size: 20px;
 	}
 	
-	.ceo-message p {
+	.section-ceo-message p {
 		font-size: 13px;
 		margin-top: 5px;
 
 	}
 
-	.instant-answers {
+	.section-instant-answers {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
@@ -128,7 +128,7 @@
 		justify-content: center;
 	}
 
-	.instant-answers img {
+	.section-instant-answers img {
 		margin-top: 60px;
 		width: 90%;
 	}

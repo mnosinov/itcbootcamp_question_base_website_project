@@ -98,16 +98,16 @@ header button {
 	background-color: orange;
 }
 
-.ceo-message {
+.section-ceo-message {
 	background-color: #0A0A0A;
 	display: flex;
 	flex-direction: column;
 }
 
-.ceo-message h1 {
+.section-ceo-message h1 {
 	color: #FAF9F7
 }
 
-.ceo-message p {
+.section-ceo-message p {
 	color: #504F4F;
 }

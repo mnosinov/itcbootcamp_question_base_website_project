@@ -56,30 +56,29 @@
 		margin-top: 47px;
 	}
 
-	.ceo-message {
+	.section-ceo-message {
 		align-items: center;
-		justify-content: center;
 		min-height: 300px;
 		margin-top: 136px;
 	}
 
-	.ceo-message h1 {
+	.section-ceo-message h1 {
 		font-size: 30px;
 		margin-top: 119px;
 	}
 	
-	.ceo-message p {
+	.section-ceo-message p {
 		font-size: 11px;
 		margin-top: 33px;
 	}
 
-	.instant-answers {
+	.section-instant-answers {
 		display: flex;
 		height: 800px;
 		align-items: center;
 	}
 
-	.instant-answers img {
+	.section-instant-answers img {
 		margin: 250px 60px 350px;
 	}
 
