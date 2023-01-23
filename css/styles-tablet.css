@@ -48,4 +48,21 @@
 	.hero-bottom p {
 		max-width: 400px;
 	}
+
+	.ceo-message {
+		align-items: center;
+		justify-content: center;
+		min-height: 100px;
+		margin-top: 30px;
+	}
+
+	.ceo-message h1 {
+		font-size: 25px;
+		margin-top: 15px;
+	}
+	
+	.ceo-message p {
+		font-size: 11px;
+		margin-top: 5px;
+	}
 }

@@ -97,4 +97,20 @@
 		min-width: 90%;
 	}
 
+	.ceo-message {
+		align-items: center;
+		justify-content: center;
+		min-height: 100px;
+		padding: 0 10px;
+	}
+
+	.ceo-message h1 {
+		font-size: 20px;
+	}
+	
+	.ceo-message p {
+		font-size: 11px;
+		margin-top: 5px;
+
+	}
 }
