@@ -72,5 +72,47 @@
 		font-size: 11px;
 		margin-top: 33px;
 	}
+
+	.instant-answers {
+		display: flex;
+		height: 800px;
+		align-items: center;
+	}
+
+	.instant-answers img {
+		margin: 250px 60px 350px;
+	}
+
+	.instant-answers-text {
+		background-color: #FAF9F7;
+		background-image: url('../images/instant-answers-background.png');
+		background-repeat: no-repeat;
+		background-position: 58px 435px;
+		height: 100%;
+		padding-left: 60px;
+	}
+
+	.instant-answers-text h1 {
+		font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 48px;
+		line-height: 48px;
+		color: #0A0A0A;
+		margin-top: 165px;
+	}
+
+	.primary-text {
+		margin-top: 90px;
+		max-width: 322px;
+		color: #0A0A0A;
+	}
+
+	.secondary-text {
+		margin-top: 46px;
+		font-size: 12px;
+		color: #504F4F;
+		max-width: 322px;
+	}
 }
 
