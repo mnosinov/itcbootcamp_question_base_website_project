@@ -105,9 +105,23 @@ header button {
 }
 
 .section-ceo-message h1 {
-	color: #FAF9F7
+	color: #FAF9F7;
 }
 
 .section-ceo-message p {
 	color: #504F4F;
+}
+
+.section-pricing {
+	background-color: #FBF19B;
+	display: flex;
+	flex-direction: column;
+}
+
+.section-pricing h1 {
+	color: #0A0A0A;
+}
+
+.section-pricing p {
+	color: #0A0A0A;
 }

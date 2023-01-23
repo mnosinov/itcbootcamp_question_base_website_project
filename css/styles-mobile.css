@@ -111,7 +111,6 @@
 	.section-ceo-message p {
 		font-size: 13px;
 		margin-top: 5px;
-
 	}
 
 	.section-instant-answers {
@@ -160,6 +159,23 @@
 		margin: 10px;
 		font-size: 16px;
 		color: #504F4F;
+		text-align: center;
+	}
+
+	.section-pricing {
+		align-items: center;
+		justify-content: center;
+		padding: 40px 20px;
+		margin-top: 30px;
+	}
+
+	.section-pricing h1 {
+		font-size: 28px;
+	}
+	
+	.section-pricing p {
+		font-size: 13px;
+		margin-top: 16px;
 		text-align: center;
 	}
 }

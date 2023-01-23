@@ -113,5 +113,22 @@
 		color: #504F4F;
 		max-width: 322px;
 	}
+
+	.section-pricing {
+		align-items: center;
+		min-height: 664px;
+	}
+
+	.section-pricing h1 {
+		font-size: 57px;
+		margin-top: 231px;
+	}
+	
+	.section-pricing p {
+		font-size: 16px;
+		margin-top: 43px;
+		max-width: 478px;
+	}
+
 }
 
