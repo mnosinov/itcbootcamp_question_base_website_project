@@ -50,6 +50,15 @@ header button {
 	min-width: 116px;
 }
 
+.menu-btn {
+	display: none;
+	padding: 0;
+	margin: 0;
+	background-color: transparent;
+	color: black;
+	font-size: 30px;
+}
+
 .main-menu ul {
 	list-style-type: none;
 }
