@@ -65,4 +65,45 @@
 		font-size: 11px;
 		margin-top: 5px;
 	}
+
+	.instant-answers {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.instant-answers img {
+		margin-top: 60px;
+	}
+
+	.instant-answers-text {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		height: 100%;
+		margin-top: 60px;
+	}
+
+	.instant-answers-text h1 {
+		font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 38px;
+		line-height: 48px;
+		color: #0A0A0A;
+		margin-top: 65px auto;
+	}
+
+	.primary-text {
+		margin: 30px 60px;
+		color: #0A0A0A;
+		text-align: center;
+	}
+
+	.secondary-text {
+		margin: 10px 70px 50px;
+		font-size: 16px;
+		color: #504F4F;
+		text-align: center;
+	}
 }
