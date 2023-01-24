@@ -222,4 +222,22 @@
 		max-width: 178px;
 		margin-top: 36px;
 	}
+
+	footer {
+		padding: 10px;
+	}
+
+	.social-networks>a {
+		margin-left: 12px;
+	}
+
+	.copyright-and-other-links {
+		margin-top: 9px;
+		justify-content: space-between;
+		font-size: 12px;
+	}
+
+	.other-links {
+		margin: 0 6px;
+	}
 }

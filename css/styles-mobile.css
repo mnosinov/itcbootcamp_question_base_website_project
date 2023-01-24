@@ -282,4 +282,40 @@
 	.section-application-form .application input[type=submit] {
 		margin-top: 36px;
 	}
+
+	footer {
+		padding: 10px;
+	}
+
+	.social-networks {
+		display: flex;
+		justify-content: center;
+	}
+
+	.social-networks>a {
+		padding: 10px;
+
+	}
+
+	.social-networks>a>img {
+		width:  50px;
+	}
+
+	.copyright-and-other-links {
+		flex-direction: column-reverse;
+		margin-top: 9px;
+		justify-content: space-between;
+		font-size: 16px;
+	}
+
+	.other-links {
+		display: flex;
+		flex-direction: column;
+		margin: 0 6px 18px;
+		font-size: 30px;
+	}
+
+	.other-links a {
+		padding: 10px 0;
+	}
 }

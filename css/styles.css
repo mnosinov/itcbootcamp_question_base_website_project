@@ -223,3 +223,37 @@ header button {
 	background-color: orange;
 	color: #000000;
 }
+
+footer {
+	display: flex;
+	flex-direction: column;
+	background-color: #DBFAA8;
+	color: #0A0A0A;
+}
+
+.social-networks {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.just-horizontal-line {
+	margin-top: 12px;
+	border: none;
+	border-top: 1px solid #0A0A0A;
+}
+
+.copyright-and-other-links {
+	display: flex;
+}
+
+.other-links a:link,
+.other-links a:visited,
+.other-links a:active {
+	text-decoration: none;
+	color: #0A0A0A;
+}
+
+.other-links a:hover {
+	color: navy;
+	text-decoration: underline;
+}
