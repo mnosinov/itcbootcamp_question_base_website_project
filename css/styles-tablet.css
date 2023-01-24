@@ -125,4 +125,21 @@
 		margin-top: 5px;
 		width: 90%;
 	}
+
+	.section-cso-message {
+		align-items: center;
+		justify-content: center;
+		min-height: 150px;
+	}
+
+	.section-cso-message h1 {
+		font-size: 25px;
+		margin-top: 15px;
+	}
+	
+	.section-cso-message p {
+		font-size: 11px;
+		margin-top: 5px;
+	}
+
 }

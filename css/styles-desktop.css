@@ -130,5 +130,21 @@
 		max-width: 478px;
 	}
 
+	.section-cso-message {
+		align-items: center;
+		min-height: 373px;
+	}
+
+	.section-cso-message h1 {
+		font-size: 30px;
+		margin-top: 159px;
+		max-width: 370px;
+		text-align: center;
+	}
+	
+	.section-cso-message p {
+		font-size: 11px;
+		margin-top: 31px;
+	}
 }
 

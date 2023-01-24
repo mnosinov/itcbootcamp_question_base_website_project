@@ -125,3 +125,17 @@ header button {
 .section-pricing p {
 	color: #0A0A0A;
 }
+
+.section-cso-message {
+	background-color: #D4F2F9;
+	display: flex;
+	flex-direction: column;
+}
+
+.section-cso-message h1 {
+	color: #0A0A0A;
+}
+
+.section-cso-message p {
+	color: #504F4F;
+}
