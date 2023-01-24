@@ -15,6 +15,12 @@
 		display: block;
 	}
 
+	.fixed-position {
+		position: fixed;
+		left: 63px;
+		top: 20px;
+	}
+
 	.main-menu { 
 			position: fixed; 
 			display: flex; 
