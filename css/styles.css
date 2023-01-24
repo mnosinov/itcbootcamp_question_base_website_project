@@ -139,3 +139,29 @@ header button {
 .section-cso-message p {
 	color: #504F4F;
 }
+
+.teamleads-workflow {
+	background-color: #0A0A0A
+}
+
+.teamleads-workflow-title h1 {
+	color: #FAF9F7;
+	font-family: 'Roboto';
+	font-weight: 400;
+}
+
+.phases {
+	display: flex;
+}
+
+.phase1-scale-up {
+	background-color: #F4D2DC;
+}
+
+.phase2-reduce-interruptions {
+	background-color: #FBF19B;
+}
+
+.phase3-grow-organically {
+	background-color: #DBFAA8;
+}
