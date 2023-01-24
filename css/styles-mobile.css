@@ -244,4 +244,36 @@
 		font-size: 14px;
 		margin-top: 10px;
 	}
+
+	.section-application-form {
+		padding-top: 100px;
+		padding-bottom: 96px;
+	}
+
+	.section-application-form .application {
+		margin: 0 auto;
+		padding: 35px 15px;
+		width: 95%;
+	}
+
+	.section-application-form .application h1 {
+		font-size: 28px;
+	}
+
+	.section-application-form .application p {
+		font-size: 16px;
+		margin: 28px 0 28px;
+	}
+
+	.section-application-form .application label {
+		font-size: 14px;
+	}
+
+	.section-application-form input[type=text] {
+		margin: 15px 0;
+	}
+
+	.section-application-form .application input[type=submit] {
+		margin-top: 36px;
+	}
 }

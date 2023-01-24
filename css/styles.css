@@ -165,3 +165,61 @@ header button {
 .phase3-grow-organically {
 	background-color: #DBFAA8;
 }
+
+.section-application-form {
+	background-color: #0A0A0A;
+}
+
+.section-application-form .application {
+	background-color: #FBF19B;
+	border-radius: 24px;
+	color: #0A0A0A;
+}
+
+.section-application-form .application h1 {
+	font-family: 'Roboto';
+	font-weight: 400;
+}
+
+
+.section-application-form .application input[type=submit] {
+	font-size: 14px;
+	background-color: #0A0A0A;
+	border-radius: 40px;
+	color: white;
+}
+
+.section-application-form form {
+	display: flex;
+	flex-direction: column;
+}
+
+.section-application-form input[type=text] {
+	outline: 0;
+	border-width: 0 0 2px;
+	border-color: #0A0A0A;
+	background-color: transparent;
+	font-size: 20px;
+}
+
+.section-application-form input[type=text]:focus {
+	border-color: red;
+}
+
+.section-application-form input[type=checkbox] {
+	accent-color: orange;
+}
+
+.section-application-form .application input[type=submit] {
+	text-transform: uppercase;
+	border-radius: 32px;
+	font-size: 12px;
+	padding: 15px;
+	border: none;
+	cursor: pointer;
+}
+
+.section-application-form .application input[type=submit]:hover {
+	background-color: orange;
+	color: #000000;
+}

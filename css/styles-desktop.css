@@ -195,5 +195,44 @@
 		font-size: 14px;
 		margin-top: 30px;
 	}
+
+
+	.section-application-form {
+		padding-top: 300px;
+		padding-bottom: 96px;
+		background-image: url('../images/application-form-background-image.png');
+		background-repeat: no-repeat;
+		background-position: 745px 65px;
+	}
+
+	.section-application-form .application {
+		max-width: 840px;
+		margin: 0 auto;
+		padding: 91px 264px 112px 96px;
+	}
+
+	.section-application-form .application h1 {
+		font-size: 48px;
+		max-width: 341px;
+	}
+
+	.section-application-form .application p {
+		font-size: 16px;
+		margin: 28px 0 78px;
+		max-width: 434px;
+	}
+
+	.section-application-form .application label {
+		font-size: 14px;
+	}
+
+	.section-application-form input[type=text] {
+		margin: 40px 0;
+	}
+
+	.section-application-form .application input[type=submit] {
+		max-width: 178px;
+		margin-top: 36px;
+	}
 }
 

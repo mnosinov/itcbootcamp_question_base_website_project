@@ -190,4 +190,36 @@
 		margin-top: 10px;
 	}
 
+	.section-application-form {
+		padding-top: 100px;
+		padding-bottom: 96px;
+	}
+
+	.section-application-form .application {
+		margin: 0 auto;
+		padding: 40px 91px;
+		width: 90%;
+	}
+
+	.section-application-form .application h1 {
+		font-size: 38px;
+	}
+
+	.section-application-form .application p {
+		font-size: 16px;
+		margin: 28px 0 48px;
+	}
+
+	.section-application-form .application label {
+		font-size: 14px;
+	}
+
+	.section-application-form input[type=text] {
+		margin: 20px 0;
+	}
+
+	.section-application-form .application input[type=submit] {
+		max-width: 178px;
+		margin-top: 36px;
+	}
 }
